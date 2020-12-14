@@ -2,7 +2,7 @@
   "name": "it2g-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://batradzsanakoev.github.io/it2g-test",
+  "homepage": "http://batradzsanakoev.github.io/it2g-test",
   "dependencies": {
     "@emotion/react": "^11.1.2",
     "@rebass/forms": "^4.0.6",
