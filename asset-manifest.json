@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/it2g-test/static/css/main.c1e9f81a.chunk.css",
+    "main.js": "/it2g-test/static/js/main.18551568.chunk.js",
+    "main.js.map": "/it2g-test/static/js/main.18551568.chunk.js.map",
+    "runtime-main.js": "/it2g-test/static/js/runtime-main.ff558861.js",
+    "runtime-main.js.map": "/it2g-test/static/js/runtime-main.ff558861.js.map",
+    "static/js/2.413a91a3.chunk.js": "/it2g-test/static/js/2.413a91a3.chunk.js",
+    "static/js/2.413a91a3.chunk.js.map": "/it2g-test/static/js/2.413a91a3.chunk.js.map",
+    "index.html": "/it2g-test/index.html",
+    "static/css/main.c1e9f81a.chunk.css.map": "/it2g-test/static/css/main.c1e9f81a.chunk.css.map",
+    "static/js/2.413a91a3.chunk.js.LICENSE.txt": "/it2g-test/static/js/2.413a91a3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/it2g-test/static/media/ArchitectsDaughter-Regular.a8311c89.ttf",
+    "static/media/check.9857ac9f.svg": "/it2g-test/static/media/check.9857ac9f.svg",
+    "static/media/trash.4664d724.svg": "/it2g-test/static/media/trash.4664d724.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff558861.js",
+    "static/js/2.413a91a3.chunk.js",
+    "static/css/main.c1e9f81a.chunk.css",
+    "static/js/main.18551568.chunk.js"
+  ]
+}
